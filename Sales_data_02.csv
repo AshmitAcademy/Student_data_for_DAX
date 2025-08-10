@@ -1,0 +1,31 @@
+Order ID,Product Name,Category,Units Sold,Unit Price,Discount,Region,Sales Date
+101,Pen,Stationery,23,10,0.23,West,17-06-2024
+102,Notebook,Stationery,19,40,0.05,South,24-02-2024
+103,Pen,Stationery,10,10,0.12,North,22-04-2024
+104,Highlighter,Stationery,20,25,0.07,North,06-01-2024
+105,Pen,Stationery,25,10,0.7,East,28-02-2024
+106,Highlighter,Stationery,11,25,0.26,East,11-05-2024
+107,Highlighter,Stationery,17,25,0.15,West,26-05-2024
+108,Notebook,Stationery,15,40,0.14,South,18-02-2024
+109,Pen,Stationery,39,10,0.13,South,15-04-2024
+110,Notebook,Stationery,33,40,0.02,East,16-01-2024
+111,Keyboard,Electronics,5,700,0.24,East,04-03-2024
+112,Laptop,Electronics,14,55000,0.13,South,16-02-2024
+113,Mouse,Electronics,15,260,0.26,East,23-04-2024
+114,Tablet,Electronics,7,20000,0.17,East,15-06-2024
+115,Monitor,Electronics,9,450,0.29,West,12-02-2024
+116,Keyboard,Electronics,5,700,0.06,South,16-01-2024
+117,Laptop,Electronics,12,55000,0.3,North,26-04-2024
+118,Mouse,Electronics,5,450,0.29,South,09-02-2024
+119,Laptop,Electronics,10,55000,0.29,East,21-03-2024
+120,USB Drive,Electronics,8,200,0.14,West,15-01-2024
+121,Backpack,Accessories,20,1200,0.02,East,21-06-2024
+122,Backpack,Accessories,24,1200,0.28,West,28-05-2024
+123,Backpack,Accessories,22,1200,0.13,North,07-03-2024
+124,Laptop Bag,Accessories,19,1500,0.09,North,11-04-2024
+125,Laptop Bag,Accessories,20,1500,0.09,North,19-01-2024
+126,Laptop Bag,Accessories,20,1500,0.3,East,19-01-2024
+127,Water Bottle,Accessories,24,300,0.04,North,18-01-2024
+128,Water Bottle,Accessories,15,300,0.05,North,05-06-2024
+129,Water Bottle,Accessories,16,300,0.17,East,04-02-2024
+130,Water Bottle,Accessories,22,300,0.03,West,10-03-2024
